@@ -1,0 +1,10 @@
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# System files
+.DS_Store
+
+# Temporary files
+*.tmp
